@@ -60,5 +60,5 @@ setup(
         "Bug Reports": "https://github.com/GreenPonik/GreenPonik_BM280/issues",
     },
     keywords="GreenPonik hydroponics bme280 \
-    light reader python hardware diy iot raspberry pi",
+    temperature humidity pressure alttitude reader python hardware diy iot raspberry pi",
 )
