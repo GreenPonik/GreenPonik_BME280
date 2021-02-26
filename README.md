@@ -24,7 +24,7 @@ This is the sample code for read light with BME280 sensor.
 - [Table of Contents](#table-of-contents)
 - [Installation](#installation)
 - [Methods](#methods)
-- [Examples](#examples)
+- [Examples](#example)
 - [Credits](#credits)
 
 
